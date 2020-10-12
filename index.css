@@ -22,13 +22,13 @@ body {
 
 .nav a {
   text-decoration: none;
-  color: #be2727;
+  color: rgb(174, 35, 255);
   display: block;
   transition: .3s background-color;
 }
 
 .nav a:hover {
-  background-color:#971010;
+  background-color:rgb(255, 162, 22);
 }
 
 .nav a.active {
